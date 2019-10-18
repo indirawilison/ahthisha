@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicezanga.imzhang.wang/sitemap.xml
